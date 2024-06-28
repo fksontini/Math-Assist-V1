@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "NunitoSans-Light";
+    src: url(NunitoSans-Light.ttf);
+}
+@font-face {
+    font-family: "NunitoSans-black";
+    src: url(NunitoSans-Black.ttf);
+}
+.math-style{
+    --normal-font:"NunitoSans-Light", sans-serif; 
+    --black-font:"NunitoSans-Black", sans-serif; 
+    --main-backgournd:'#F9F0F3';
+    --top-backgournd:"#FFFFFF";
+    --bottom-backgournd:"#FFFFFF";
+}
